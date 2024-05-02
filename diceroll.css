@@ -1,0 +1,24 @@
+body{
+    text-align:center;  
+    background-color: grey;  
+    margin: 20px 50px 50px 50px;
+}
+#mybutton{
+font-family: Algerian;
+padding:10px 20px;
+font-size: 25px;
+background-color:rgb(92, 92, 212);
+color: white;
+border-radius: 5px;
+transition: background-color 0.25s;
+}
+#mybutton:hover
+{
+    background-color:blue;
+}
+.mylabel
+{
+    font-size: 50px;
+    font-family: fantasy;
+    color: brown;
+}
