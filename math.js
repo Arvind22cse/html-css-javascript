@@ -1,0 +1,17 @@
+let x=3.14;
+let y=2.99;
+let z=2;
+let v=45;
+let u=-9;
+console.log(Math.PI);
+console.log(Math.E);
+console.log(Math.round(x));
+console.log(Math.floor(y));
+console.log(Math.ceil(x));
+console.log(Math.trunc(x));
+console.log(Math.pow(x,z));
+console.log(Math.log(z));
+console.log(Math.sin(v));
+console.log(Math.abs(u));
+console.log(Math.sign(u));
+console.log(Math.max(x,y,z,v,u));
